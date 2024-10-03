@@ -213,7 +213,13 @@ Result Jika Gagal:
             <center>
               <a href="https://my.domainesia.com/ref.php?u=23364"><img src="https://dnva.me/server9ev4" width="280px" height="90px" alt="DomaiNesia"></a>
             </center>
-            
+                                    </div>
+                    </div>
+                </div>
+            </div>
+            <center>
+              <a href="https://my.domainesia.com/ref.php?u=23364"><img src="https://dnva.me/server9ev4" width="280px" height="90px" alt="DomaiNesia"></a>
+            </center>
 <?php
 require '../lib/footer.php';
 ?>
