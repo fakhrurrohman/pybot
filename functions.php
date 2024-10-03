@@ -55,7 +55,7 @@ function Wo_GetFilePosition($file) {
         if (strpos($file, 'sticker') !== false) {
             $file_type = 'sticker';
         }
-    } else if ($file_extension == 'mp4' || $file_extension == 'mkv' || $file_extension == 'avi' || $file_extension == 'mov') {
+    } else if ($file_extension == 'mp4' || $file_extension == 'mp4' || $file_extension == 'avi' || $file_extension == 'mov') {
         $file_type = 'video';
     } else if ($file_extension == 'mp3' || $file_extension == 'wav') {
         $file_type = 'audio';
