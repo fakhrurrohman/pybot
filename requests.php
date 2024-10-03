@@ -53,7 +53,7 @@ $non_login_array = array(
     'get_welcome_users',
     'load_posts',
     'save_user_location',
-    'load-more-groups',
+    'load-groups',
     'load-more-pages',
     'load-more-users',
     'load_profile_posts',
